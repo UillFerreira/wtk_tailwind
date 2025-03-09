@@ -1,4 +1,4 @@
-# 🚀 Projeto de Componentes com React + Vite + Tailwind CSS
+# React Component Kit  
 
 Este projeto tem como objetivo criar componentes reutilizáveis utilizando **React**, **Vite** e **Tailwind CSS**. Ele foi desenvolvido como parte do meu treinamento para aprender e aprimorar minhas habilidades com React.
 
